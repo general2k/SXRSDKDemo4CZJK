@@ -1,0 +1,19 @@
+//
+//  CZJKFuncList.pch
+//  CZJKFuncList
+//
+//  Created by qf on 16/10/10.
+//  Copyright © 2016年 Keeprapid. All rights reserved.
+//
+
+#ifndef CZJKFuncList_pch
+#define CZJKFuncList_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* CZJKFuncList_pch */
+
+#import <SXRSDK/SXRSDK.h>
+#import "CommonDefine.h"
+
